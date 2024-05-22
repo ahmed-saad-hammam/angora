@@ -1,0 +1,28 @@
+:root
+{
+    --main-site-color: #e65f78;
+    --main-transition-time: 0.3s;
+
+
+}
+
+body
+{
+    font-family: "Nunito Sans", sans-serif;
+
+}
+
+h1,h2,h3,h4,h5,h6
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+
+/* START OF HEADER SECTION */
+.home
+{
+    background-image: url(../images/header-bg.jpg);
+    height: 100vh;
+}
+
+/* END OF HEADR SECTION */
